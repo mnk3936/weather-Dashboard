@@ -1,6 +1,4 @@
-Here’s a sample `README.md` file for your Weather Dashboard project. This README will explain what the project does, how to install it, and how to use it.
 
-```markdown
 # Weather Dashboard - Command-Line Tool Using Python
 
 A Python-based command-line tool that fetches and displays current weather data for any city using the OpenWeatherMap API. This project demonstrates the use of APIs, JSON data handling, and basic error management in Python.
@@ -86,11 +84,10 @@ Feel free to fork this project, submit issues, or suggest features via pull requ
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any questions or feedback, please contact me at [your-email@example.com].
+For any questions or feedback, please contact me at [nadeemk.kariyad@gmail.com].
 
 ---
 
 **Happy Coding!**
 ```
 
-Replace placeholders like `https://github.com/yourusername/weather-dashboard.git` and `[your-email@example.com]` with your actual GitHub repository link and contact information. This README file provides a comprehensive guide that potential employers or users can easily follow to understand, install, and use your project. Let me know if you need further customization or additions!
